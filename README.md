@@ -1,10 +1,9 @@
-[详细介绍：https://blog.csdn.net/l598465252/article/details/81100127](https://blog.csdn.net/l598465252/article/details/81100127)
-
 ## 使用方法
 将该项目下载到本地，本地需要使用`Linux`操作系统，直接放服务器上也可以。
 下载完之后先删除`.git`文件夹
 ```bash
-git clone git@github.com:YES-Lee/git_painter.git && cd git_painter && rm -rf .git // 可以直接下载zip在解压
+git clone  xxx
+rm -rf .git // 可以直接下载zip在解压
 
 ```
 重新初始化git
